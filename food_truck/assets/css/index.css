@@ -1,0 +1,232 @@
+.icon {
+  	position: absolute;
+  	top: calc(50% - 378px);
+  	left: calc(50% - 85px);
+  	width: 270px;
+  	height: 170px;
+  	object-fit: cover;
+}
+.makanan-child {
+  	position: absolute;
+  	top: 8px;
+  	left: 34px;
+  	background-color: #bb3e00;
+  	width: 135px;
+  	height: 874px;
+
+}
+.pizza3-icon {
+  	position: absolute;
+  	top: 357px;
+  	left: 131px;
+  	width: 42px;
+  	height: 70px;
+  	object-fit: cover;
+}
+.burger5-icon {
+  	position: absolute;
+  	top: 150.25px;
+  	left: 119.11px;
+  	width: 54px;
+  	height: 96.8px;
+  	object-fit: contain;
+}
+.burger3-icon {
+  	position: absolute;
+  	top: 683px;
+  	left: 109px;
+  	width: 64.2px;
+  	height: 118.4px;
+  	object-fit: contain;
+}
+.burger4-icon {
+  	position: absolute;
+  	top: 830px;
+  	left: 130px;
+  	width: 44.2px;
+  	height: 54px;
+  	/* object-fit: contain; */
+}
+.icon1 {
+  	position: absolute;
+  	top: 485px;
+  	left: 121px;
+  	width: 52px;
+  	height: 112px;
+  	object-fit: contain;
+}
+.pizza2-icon {
+  	position: absolute;
+  	top: 268.71px;
+  	left: 46.16px;
+  	width: 115.6px;
+  	height: 115.6px;
+  	object-fit: cover;
+}
+.pizza1-icon {
+  	position: absolute;
+  	top: 573.78px;
+  	left: 31.02px;
+  	width: 157.4px;
+  	height: 157.4px;
+  	/* object-fit: cover; */
+}
+.burger1-icon {
+  	position: absolute;
+  	top: 39px;
+  	left: 30px;
+  	width: 176.4px;
+  	height: 176.4px;
+  	object-fit: contain;
+  	opacity: 100;
+}
+.burger2-icon {
+  	position: absolute;
+  	top: 380.81px;
+  	left: 21.88px;
+  	width: 158.2px;
+  	height: 158.2px;
+  	object-fit: contain;
+}
+.icon2 {
+  	position: absolute;
+  	top: 732.48px;
+  	left: 33.11px;
+  	width: 111px;
+  	height: 111px;
+  	object-fit: cover;
+}
+.icon3 {
+  	position: absolute;
+  	top: 199.51px;
+  	left: 59.76px;
+  	width: 71px;
+  	height: 71px;
+  	object-fit: cover;
+}
+.icon4 {
+  	position: absolute;
+  	top: 22px;
+  	left: 131px;
+  	width: 42px;
+  	height: 85px;
+  	object-fit: contain;
+}
+.makanan {
+  	position: absolute;
+  	top: -8px;
+  	left: -64px;
+  	width: 188.5px;
+  	height: 911.6px;
+}
+.food-mate {
+  	position: absolute;
+  	top: 244px;
+  	left: 143px;
+  	font-size: 73.26px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+  	font-family: 'Playfair Display';
+  	text-align: left;
+  	display: inline-block;
+  	width: 224px;
+}
+.food-mate-hadir {
+  	position: absolute;
+  	top: 391px;
+  	left: 146px;
+  	font-size: 12.79px;
+  	line-height: 90.52%;
+  	font-weight: 300;
+  	display: inline-block;
+  	width: 201px;
+}
+.ip1-child {
+  	position: absolute;
+  	top: 714px;
+  	left: 146px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 14px;
+  	background-color: #bb3e00;
+  	width: 204px;
+  	height: 47px;
+  	cursor: pointer;
+}
+.ip1-item {
+  	position: absolute;
+  	top: 769px;
+  	left: 146px;
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 14px;
+  	background-color: #fff;
+  	width: 204px;
+  	height: 47px;
+  	cursor: pointer;
+}
+.sign-up {
+  	position: absolute;
+  	top: 731px;
+  	left: 220px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+  	color: #fafafa;
+  	display: inline-block;
+  	width: 72px;
+}
+.login {
+  	position: absolute;
+  	top: 786px;
+  	left: 220px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+  	display: inline-block;
+  	width: 59px;
+}
+.ip1 {
+  	/* width: 100%;
+  	position: relative;
+  	background-color: #fff;
+  	height: 874px;
+  	overflow: hidden;
+  	text-align: justify;
+  	font-size: 15.69px;
+  	color: #bb3e00;
+  	font-family: Roboto;
+	/* nyoba */
+	/* display: flex; */
+	width: 393px;
+  	height: 874px;
+  	position: relative;
+  	background-color: #fff;
+  	overflow: hidden;
+  	font-family: Roboto;
+  	color: #bb3e00;
+  	font-size: 15.69px;
+  	text-align: justify;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .scale-wrapper{
+  transform-origin: top left;
+  width: 393px;    
+  height: 874px;      
+  transform: scale(calc(100vh / 874));
+} */
+
+html, body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  padding: 0;
+  /* overflow: hidden; */
+}
+
+/* html, body {
+  overflow: hidden !important;
+} */
+

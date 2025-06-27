@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Mate App</title>
+    <link rel="stylesheet" href="./assets/css/ip4_1.css">
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <!-- Font Awesome Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
+</head>
+<body>
+
+    <div class="mobile-container">
+        <!-- Header -->
+        <header class="app-header">
+            <div class="top-bar">
+                <div class="logo">
+                    <img src="./assets/image/ip4/mdi_food.svg" alt="Food Mate Logo Icon" class="logo-icon">
+                    <span>Food<span class="mate-text">Mate</span></span>
+                </div>
+                <div class="cart-icon">
+                    <i class="fa-solid fa-cart-shopping"></i>
+                </div>
+            </div>
+
+            <div class="header-content">
+                <div class="location-search">
+                    <div class="location">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <span>Indonesia</span>
+                        <i class="fa-solid fa-caret-down"></i>
+                    </div>
+                    <div class="search-bar">
+                        <i class="fa-solid fa-magnifying-glass"></i>
+                        <input type="text" id="searchInput" placeholder="Search for something testy...">
+                    </div>
+                </div>
+                 <img src="https://i.imgur.com/gKPR9na.png" alt="Chef Illustration" class="chef-illustration">
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="app-main">
+            <!-- Top Categories -->
+            <section class="category-section">
+                <div class="section-header">
+                    <h2>Top categories</h2>
+                    <a href="#">See all</a>
+                </div>
+                <div class="category-list">
+                    <button class="category-item active">
+                        <span class="emoji">🍔</span> Burger
+                    </button>
+                    <button class="category-item">
+                        <span class="emoji">🍕</span> Pizza
+                    </button>
+                    <button class="category-item">
+                        <span class="emoji">🥤</span> Drink
+                    </button>
+                </div>
+            </section>
+
+            <!-- Recommended for you (dengan lebih banyak item agar bisa di-scroll) -->
+            <section class="recommended-section">
+                <div class="section-header">
+                    <h2>Recommended for you</h2>
+                    <a href="#">See all</a>
+                </div>
+                <div class="item-list">
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=500" alt="Pizza hoba">
+                        <div class="item-details">
+                            <h3>Pizza hoba</h3>
+                            <div class="item-price-add">
+                                <span class="price">$24</span>
+                                <button class="add-btn"><i class="fa-solid fa-plus"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500" alt="Cheese Burger">
+                        <div class="item-details">
+                            <h3>Cheese Burger</h3>
+                            <div class="item-price-add">
+                                <span class="price">$12</span>
+                                <button class="add-btn"><i class="fa-solid fa-plus"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1528735602780-2552fd46c766?w=500" alt="Sandwich">
+                        <div class="item-details">
+                            <h3>Sandwich</h3>
+                            <div class="item-price-add">
+                                <span class="price">$10</span>
+                                <button class="add-btn"><i class="fa-solid fa-plus"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500" alt="Pancakes">
+                        <div class="item-details">
+                            <h3>Pancakes</h3>
+                            <div class="item-price-add">
+                                <span class="price">$15</span>
+                                <button class="add-btn"><i class="fa-solid fa-plus"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item-card">
+                        <img src="https://images.unsplash.com/photo-1571091718767-18b5b1457add?w=500" alt="Spicy Burger">
+                        <div class="item-details">
+                            <h3>Spicy Burger</h3>
+                            <div class="item-price-add">
+                                <span class="price">$14</span>
+                                <button class="add-btn"><i class="fa-solid fa-plus"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            
+            <!-- Popular Food -->
+             <section class="category-section">
+                <div class="section-header">
+                    <h2>Popular Food</h2>
+                    <a href="#">See all</a>
+                </div>
+                <div class="category-list">
+                    <button class="category-item">
+                        <span class="emoji">🍔</span> Burger
+                    </button>
+                    <button class="category-item active">
+                        <span class="emoji">🍕</span> Pizza
+                    </button>
+                    <button class="category-item">
+                        <span class="emoji">🍨</span> Ice Cream
+                    </button>
+                </div>
+            </section>
+        </main>
+
+        <!-- Bottom Navigation -->
+        <nav class="bottom-nav">
+            <a href="#" class="nav-item active">
+                <i class="fa-solid fa-house"></i>
+                <span>Home</span>
+            </a>
+            <a href="#" class="nav-item">
+                <i class="fa-solid fa-receipt"></i>
+            </a>
+            <a href="#" class="nav-item">
+                <i class="fa-solid fa-truck-fast"></i>
+            </a>
+            <a href="#" class="nav-item">
+                <i class="fa-solid fa-user"></i>
+            </a>
+        </nav>
+    </div>
+
+    <!-- JAVASCRIPT UNTUK INTERAKTIVITAS -->
+    <script>
+        // Membuat search bar bisa diklik areanya untuk fokus ke input
+        const searchBar = document.querySelector('.search-bar');
+        const searchInput = document.getElementById('searchInput');
+
+        searchBar.addEventListener('click', () => {
+            searchInput.focus();
+        });
+
+        // Membuat tombol '+' berfungsi saat diklik
+        const addButtons = document.querySelectorAll('.add-btn');
+
+        addButtons.forEach(button => {
+            button.addEventListener('click', (event) => {
+                // Mencegah event bubbling ke card jika ada
+                event.stopPropagation(); 
+                
+                // Cari elemen h3 terdekat untuk mendapatkan nama makanan
+                const card = button.closest('.item-card');
+                const foodName = card.querySelector('h3').textContent;
+                
+                // Tampilkan alert
+                alert(`"${foodName}" has been added to your cart!`);
+            });
+        });
+    </script>
+
+</body>
+</html>

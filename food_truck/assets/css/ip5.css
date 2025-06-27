@@ -1,0 +1,288 @@
+.ip5-child {
+  	position: absolute;
+  	top: 26.5px;
+  	left: 25.43px;
+  	width: 349px;
+  	height: 349px;
+}
+.ip5-item {
+  	position: absolute;
+  	top: 384px;
+  	left: calc(50% - 193px);
+  	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 40px 40px 0px 0px;
+  	background-color: #fff;
+  	width: 386px;
+  	height: 487px;
+}
+.pizza-hoba {
+  	position: absolute;
+  	top: 413px;
+  	left: 40px;
+  	font-size: 36px;
+  	line-height: 90.52%;
+  	font-family: 'Roboto Condensed';
+  	color: #000;
+}
+.about-food {
+  	position: absolute;
+  	top: 601px;
+  	left: 38px;
+  	font-size: 20px;
+  	line-height: 90.52%;
+  	font-family: 'Roboto Condensed';
+  	color: #000;
+}
+.food-details {
+  	position: absolute;
+  	top: 36px;
+  	left: 161px;
+  	font-size: 16px;
+  	line-height: 90.52%;
+  	font-family: 'Roboto Condensed';
+  	color: #070707;
+}
+.group-child {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	box-shadow: 0px 0px 0px #f7ad45, 0px 4px 4px rgba(0, 0, 0, 0.25);
+  	border-radius: 14px;
+  	background-color: #bb3e00;
+  	width: 204px;
+  	height: 47px;
+}
+.add-to-chart {
+  	position: absolute;
+  	top: 13px;
+  	left: 35px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+}
+.rectangle-parent {
+  	position: absolute;
+  	top: 759px;
+  	left: 99px;
+  	width: 204px;
+  	height: 47px;
+  	font-size: 24px;
+  	color: #fff;
+}
+.ip5-inner {
+  	position: absolute;
+  	top: 459px;
+  	left: 281px;
+  	border-radius: 19px;
+  	background-color: #bb3e00;
+  	width: 87px;
+  	height: 41px;
+}
+.div {
+  	position: absolute;
+  	top: 470px;
+  	left: 344px;
+  	font-size: 20px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+  	color: #fff;
+}
+.div1 {
+  	position: absolute;
+  	top: 469px;
+  	left: 297px;
+  	font-size: 24px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+  	color: #fff;
+}
+.rectangle-div {
+  	position: absolute;
+  	top: 55px;
+  	left: 341px;
+  	border-radius: 6px;
+  	background-color: #bb3e00;
+  	width: 34px;
+  	height: 28px;
+}
+.ip5-child1 {
+  	position: absolute;
+  	top: 55px;
+  	left: 26px;
+  	border-radius: 6px;
+  	background-color: #bb3e00;
+  	width: 34px;
+  	height: 28px;
+}
+.line-mdheart-icon {
+  	position: absolute;
+  	top: 56px;
+  	left: 346px;
+  	width: 24px;
+  	height: 24px;
+  	overflow: hidden;
+}
+.iconamoonarrow-up-2 {
+  	position: absolute;
+  	top: 57px;
+  	left: 31px;
+  	width: 24px;
+  	height: 24px;
+  	overflow: hidden;
+  	object-fit: contain;
+}
+.group-item {
+  	position: absolute;
+  	top: 0px;
+  	left: 0px;
+  	border-radius: 6px;
+  	background-color: #bb3e00;
+  	width: 34px;
+  	height: 28px;
+}
+.iconamoonarrow-up-21 {
+  	position: absolute;
+  	top: 2px;
+  	left: 5px;
+  	width: 24px;
+  	height: 24px;
+  	overflow: hidden;
+  	object-fit: contain;
+}
+.rectangle-group {
+  	position: absolute;
+  	top: 55px;
+  	left: 26px;
+  	width: 34px;
+  	height: 28px;
+  	cursor: pointer;
+}
+.div2 {
+  	position: absolute;
+  	top: 465px;
+  	left: 40px;
+  	font-size: 36px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+  	color: #bb3e00;
+}
+.div3 {
+  	position: absolute;
+  	top: 532px;
+  	left: 64px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+}
+.kcal {
+  	position: absolute;
+  	top: 532px;
+  	left: 173px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+}
+.min {
+  	position: absolute;
+  	top: 532px;
+  	left: 317px;
+  	line-height: 90.52%;
+  	font-weight: 600;
+}
+.pizza-is-an {
+  	position: absolute;
+  	top: calc(50% + 201px);
+  	left: calc(50% - 164px);
+  	line-height: 102%;
+  	font-weight: 600;
+  	text-align: justify;
+  	display: flex;
+  	align-items: flex-end;
+  	width: 328px;
+  	height: 65px;
+}
+.material-symbols-lightstar-icon {
+  	position: absolute;
+  	top: 524px;
+  	left: 40px;
+  	width: 24px;
+  	height: 24px;
+  	overflow: hidden;
+}
+.vector-icon {
+  	position: absolute;
+  	height: 1.14%;
+  	width: 2.49%;
+  	top: 39.47%;
+  	right: 53.23%;
+  	bottom: 59.38%;
+  	left: 44.28%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon1 {
+  	position: absolute;
+  	height: 1.14%;
+  	width: 2.49%;
+  	top: 39.47%;
+  	right: 44.28%;
+  	bottom: 59.38%;
+  	left: 53.23%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.vector-icon2 {
+  	position: absolute;
+  	height: 1.14%;
+  	width: 2.49%;
+  	top: 39.47%;
+  	right: 48.76%;
+  	bottom: 59.38%;
+  	left: 48.76%;
+  	max-width: 100%;
+  	overflow: hidden;
+  	max-height: 100%;
+}
+.b {
+  	position: absolute;
+  	top: 469px;
+  	left: 318px;
+  	font-size: 24px;
+  	line-height: 90.52%;
+  	color: #fff;
+}
+.mdiblood-plus-icon {
+  	position: absolute;
+  	top: 527px;
+  	left: 143px;
+  	width: 24px;
+  	height: 24px;
+  	overflow: hidden;
+}
+.lets-iconstime-fill {
+  	position: absolute;
+  	top: 527px;
+  	left: 287px;
+  	width: 24px;
+  	height: 24px;
+  	overflow: hidden;
+}
+.icon {
+  	position: absolute;
+  	top: 110px;
+  	left: 22px;
+  	width: 336px;
+  	height: 206px;
+  	object-fit: cover;
+}
+.ip5 {
+  	width: 100%;
+  	position: relative;
+  	background-color: #f2f2f2;
+  	height: 874px;
+  	overflow: hidden;
+  	text-align: left;
+  	font-size: 14px;
+  	color: rgba(0, 0, 0, 0.62);
+  	font-family: Roboto;
+}
+
